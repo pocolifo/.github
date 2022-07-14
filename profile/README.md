@@ -13,7 +13,7 @@ We do not mess around.
 ## Members
 - [YoungerMax](https://github.com/youngermax)
 - [abdowns](https://github.com/abdowns)
-- [vimpro (Alex)](https://github.com/vimpro)
+- [vimpro](https://github.com/vimpro)
 
 ## Our goals
 - [x] Write beautiful code
