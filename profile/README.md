@@ -7,7 +7,7 @@
   </div>
 </header>
 
-<div style="text-align: left;">
+<div align=left>
   <div>
     <h1>🧑‍💻 Who we are</h1>
     <ul>
