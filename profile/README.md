@@ -1,4 +1,4 @@
-<header align="center">
+<div align=center>
   <img src="https://avatars.githubusercontent.com/u/91567220?s=200" alt="Pooclifo Logo">
 
   <div>
@@ -7,7 +7,7 @@
   </div>
 </header>
 
-<section>
+<div style="text-align: left;">
   <div>
     <h1>🧑‍💻 Who we are</h1>
     <ul>
@@ -24,5 +24,5 @@
       <li>We're designing, developing, and releasing websites. Want one? <a href="https://pocolifo.com/contact-us">Talk to us.</a></li>
     </ul>
   </div>
-</section>
+</div>
 
