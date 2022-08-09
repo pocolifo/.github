@@ -1,48 +1,28 @@
-<h1 align=center>
-<img src="https://avatars.githubusercontent.com/u/91567220?s=200&v=4">
- 
-Pocolifo Organization
-###
-  <h3 align=center>
-We are the all-praised pocolifo organization.
-<br/>
-We build software.
-<br/>
-We do not mess around.
+<header align="center">
+  <img src="https://avatars.githubusercontent.com/u/91567220?s=200" alt="Pooclifo Logo">
 
-## Members
-- [YoungerMax](https://github.com/youngermax)
-- [abdowns](https://github.com/abdowns)
-- [vimpro](https://github.com/vimpro)
+  <div>
+    <h1 style="margin-bottom: 0">Pocolifo</h1>
+    <p>We're changing the world, one commit at a time.<br /><a href="https://pocolifo.com">https://pocolifo.com</a></p>
+  </div>
+</header>
 
-## Our goals
-- [x] Write beautiful code
-- [x] Become the best at everything
-- [ ] World domination
+<section>
+  <div>
+    <h1>🧑‍💻 Who we are</h1>
+    <ul>
+      <li><a href="https://github.com/youngermax">youngermax</a></li>
+      <li><a href="https://github.com/abdowns">abdowns</a></li>
+      <li><a href="https://github.com/vimpro">vimpro</a></li>
+    </ul>
+  </div>
 
-## Quotes
+  <div>
+    <h1>👷 What we're doing</h1>
+    <ul>
+      <li>We're working on some top secret projects which will be released eventually!</li>
+      <li>We're designing, developing, and releasing websites. Want one? <a href="https://pocolifo.com/contact-us">Talk to us.</a></li>
+    </ul>
+  </div>
+</section>
 
-  <br/>
-  
-> "These guys are something else"
-  #### \- Barack Obama
-  
-  <br/>
-  
-> "It's open source!"
-  #### \- Richard Stallman
-  
-  <br/>
-  
-> "Very cool"
-  #### \- Elon Musk 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
