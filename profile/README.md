@@ -14,6 +14,7 @@
       <li><a href="https://github.com/youngermax">youngermax</a></li>
       <li><a href="https://github.com/abdowns">abdowns</a></li>
       <li><a href="https://github.com/vimpro">vimpro</a></li>
+      <li><a href="https://github.com/deanOcoin">deanOcoin</a></li>
     </ul>
   </div>
 
